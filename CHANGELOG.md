@@ -1,4 +1,8 @@
 # 3.5.0
+- Update dependencies
+- update min sdk
+
+# 3.5.0
 - Fix listObject with utf-8 prefix
 
 # 3.4.0-pre
