@@ -1,4 +1,7 @@
-# 3.5.0
+# 3.5.2
+- update intl version
+
+# 3.5.1
 - Update dependencies
 - update min sdk
 
